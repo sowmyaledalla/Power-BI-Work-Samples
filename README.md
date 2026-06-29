@@ -28,7 +28,7 @@ Education administrators lack consolidated visibility into enrollment trends, gr
 ### Page 1 — Student Enrollments
 *Answers: Where are students enrolling, when, and how many?*
 
-![Enrollments](./screenshots/Enrollments.png)
+
 
 | Visual | Type | Purpose |
 |--------|------|---------|
@@ -49,7 +49,6 @@ Education administrators lack consolidated visibility into enrollment trends, gr
 ### Page 2 — Student Graduations
 *Answers: How many students complete the program, and which states are most efficient?*
 
-![Graduations](./screenshots/Graduations.png)
 
 | Visual | Type | Purpose |
 |--------|------|---------|
@@ -70,7 +69,6 @@ Education administrators lack consolidated visibility into enrollment trends, gr
 ### Page 3 — Credits Earned
 *Answers: How much academic output are students producing, and where?*
 
-![Credits Earned](./screenshots/Credits_Earned.png)
 
 | Visual | Type | Purpose |
 |--------|------|---------|
